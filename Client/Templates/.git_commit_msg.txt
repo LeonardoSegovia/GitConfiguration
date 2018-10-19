@@ -1,0 +1,14 @@
+#Mensaje Commit Guia de Preguntas
+
+#Las lineas que tengan '#' al principio seran ignoradas.
+#Las siguientes preguntas sirven de guia para armar un mensaje de commit util.
+#Responder entre los simbolos '[' y ']'.
+
+#A que numero de peticion corresponde este cambio? Ej: [BUG#9999],o [FEATURE#9999]
+[]
+#Si se aplica este commit, cual es el cambio? Ej: [Limita la cantidad de alarmas visualizadas]
+[]
+#Por que es necesario este cambio? Ej: [Es necesario para optimizar el uso de memoria]
+[]
+
+
